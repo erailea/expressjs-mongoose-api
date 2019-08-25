@@ -1,3 +1,5 @@
+[![Build status](https://travis-ci.com/erailea/expressjs-mongoose-api.svg)](https://travis-ci.org/erailea/expressjs-mongoose-api)
+
 # Movies
 
 | Route | HTTP Verb	 | POST body	 | Description	 |
