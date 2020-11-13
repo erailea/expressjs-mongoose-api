@@ -10,7 +10,7 @@ const directorRouter = require('./routes/director');
 const app = express();
 
 // db setup
-const db = require('./helpers/db')();
+require('./helpers/db')();
 
 //jwt secret key
 const config = require('./helpers/config')
