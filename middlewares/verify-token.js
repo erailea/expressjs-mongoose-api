@@ -17,9 +17,6 @@ module.exports = (req, res, next) => {
             }
         })
     } else {
-        res.json({
-            status: false,
-            message: 'No token provided'
-        })
+        res.send(401, 'missing authorization header');
     }
 }
