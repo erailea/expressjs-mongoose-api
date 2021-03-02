@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 module.exports = () => {
-    mongoose.connect('mongodb://movie_user:Aa1234@ds026558.mlab.com:26558/movieapi', {
+    mongoose.connect('mongodb+srv://erailea:gjqWG4L3SoYqAHfC@cluster0.1ghqd.mongodb.net/movieapi?retryWrites=true&w=majority', {
         useCreateIndex: true,
         useNewUrlParser: true
     });
