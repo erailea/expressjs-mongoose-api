@@ -1,4 +1,4 @@
-[![Build status](https://travis-ci.com/erailea/expressjs-mongoose-api.svg)](https://travis-ci.org/erailea/expressjs-mongoose-api) [![CodeFactor](https://www.codefactor.io/repository/github/erailea/expressjs-mongoose-api/badge/master)](https://www.codefactor.io/repository/github/erailea/expressjs-mongoose-api/overview/master)
+[![Build Status](https://travis-ci.org/erailea/expressjs-mongoose-api.svg?branch=master)](https://travis-ci.org/erailea/expressjs-mongoose-api) [![CodeFactor](https://www.codefactor.io/repository/github/erailea/expressjs-mongoose-api/badge/master)](https://www.codefactor.io/repository/github/erailea/expressjs-mongoose-api/overview/master)
 
 # Movies
 
